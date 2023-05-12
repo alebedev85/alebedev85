@@ -3,36 +3,54 @@
 </div>  
   
 
-### <div align="center">Привет! Я Андрей! 👨‍💻 Я учусь на Веб-разработчика, хочу развиваться в этой сфере и участвовать в интересных проектах🚀</div>  
+<h2 align="center"> Привет, меня зовут Андрей!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+
+<h3 align="center">  Я учусь на Веб-разработчика, хочу развиваться в этой сфере и участвовать в интересных проектах🚀</h3> 
+
+---
+### :man_technologist: Обо мне:
+* 👨‍🎓 Учусь на  курсе по веб-разработке Яндекс Практикум.  
+
+
+* 👨‍💻 Самостоятельно учил Python.  
   
 
-- 🔭 Учусь на  курсе по веб-разработке Яндекс Практикум.  
-
-
-- 🌱 Самостоятельно учил Python.  
+* 👨‍💼 Проходил курсы на Stepik.  
   
 
-- ❓ Проходил курсы на Stepik.  
-  
+* 🏃‍♂️ Решаю задачи на Сodewars.  
 
-- ⚡ Решаю задачи на Сodewars.  
-<br/>  
+---
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://t.me/andrei_lebedev" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://vk.com/me_and_my_monkey" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="https://wa.me/79168779756">
+      <img src="https://img.freepik.com/free-icon/whatsapp_318-219850.jpg" width="45" target="_blank" alt="whatsapp"/>
+    </a>
+  </div>
+  
+---
 
 ### 💻 Технологии:
 <div>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  
 </div>
 
----
 
 ### 🛠 Инструменты:
 
@@ -44,17 +62,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
-
-<br/>  
-
-
-## Connect with me  
-<div>
-<a href="https://github.com/alebedev85" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</ div>
-  
+--- 
+ 
   ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/alebedev85/badges/large)
