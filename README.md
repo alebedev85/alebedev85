@@ -64,7 +64,7 @@
 
 --- 
  
-  ### 💻 Codewars:
+  ### 🥋 Codewars:
 
 ![codewars](https://www.codewars.com/users/alebedev85/badges/large)
 
