@@ -21,7 +21,7 @@
 * 🥋 Решаю задачи на Сodewars.  
 
 ---
-### 🤝 Социальные сети:
+### 🤝 Мои контакты:
 
   <div id="badges">
     <a href="https://t.me/andrei_lebedev" target="_blank">
@@ -34,6 +34,9 @@
       <img src="https://img.freepik.com/free-icon/whatsapp_318-219850.jpg" width="45" target="_blank" alt="whatsapp"/>
     </a>
   </div>
+  <br/>
+  <p>Телефон: +7-916-8779756<p>
+  <p>Email: alebedev424@gmail.com<p>
   
 ---
 
